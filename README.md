@@ -1,3 +1,3 @@
 hello
 
-this is my DGT reposatory for school
+this is my DGT repository for school
