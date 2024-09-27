@@ -5,9 +5,9 @@
 # TODO: create a program that asks a user a question 
 # and returns a response based on the answer of the user.
 
-
+#V1
 #main loop. keeps running until a condition is met
-main = ""
+"""main = ""
 while main == "":
 
     like_coffee = input("do you like coffee ").lower()
@@ -31,5 +31,4 @@ while main == "":
             print(like_tea)
             print("brh give me a proper yes or no")
     else:
-        print("brh give me a proper yes or no")
-        
+        print("brh give me a proper yes or no")"""
